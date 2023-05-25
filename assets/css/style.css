@@ -1,11 +1,29 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #0e9725;
+    background-color: #35aef4;
+    color: #f8f8f8;
+}
+
+h2 {
+    color: #FFF;
 }
 
 footer {
-    background-color: #0e9725;
-    color: #fff;
-    padding: 20px;
+    background-color: #003bd6;
     text-align: center;
 }
+
+.bg-card {
+    background-color: #003760;
+    color: #fff;
+}
+
+.btn {
+    background-color: #0e9723;
+    color: #fff;
+}
+.btn:hover {
+    scale: 1.2;    
+    background-color: #0e9723;    
+}
+
