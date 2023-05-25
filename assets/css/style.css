@@ -1,4 +1,11 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #d22626;
+    background-color: #0e9725;
+}
+
+footer {
+    background-color: #0e9725;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
 }
